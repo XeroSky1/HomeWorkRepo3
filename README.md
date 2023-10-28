@@ -57,3 +57,4 @@ print('hello world')
 _Наклонный_ _шрифт_
 
 ![pic_of_nature](https://upload.wikimedia.org/wikipedia/commons/8/80/140-P1020281_-_Flickr_-_Laurie_Nature_Bee.jpg)
+![pic_of_nature](https://upload.wikimedia.org/wikipedia/commons/8/80/140-P1020281_-_Flickr_-_Laurie_Nature_Bee.jpg)
